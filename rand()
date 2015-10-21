@@ -11,5 +11,6 @@ int main()
         printf("rand=%d%d\n",a,b);
 	//Kevin modified123
     }
+    //hello minxin
     return 0;
 }
