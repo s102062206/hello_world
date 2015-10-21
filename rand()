@@ -9,6 +9,7 @@ int main()
         a = rand();
         b = rand();
         printf("rand=%d%d\n",a,b);
+	//Kevin modified
     }
     return 0;
 }
