@@ -1,0 +1,14 @@
+#include<bits/stdc++.h>
+
+int main()
+{
+    srand(time(NULL));
+    int a,b;
+    int t = 3;
+    while(t--){
+        a = rand();
+        b = rand();
+        printf("rand=%d%d\n",a,b);
+    }
+    return 0;
+}
