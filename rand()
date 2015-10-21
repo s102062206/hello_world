@@ -10,5 +10,6 @@ int main()
         b = rand();
         printf("rand=%d%d\n",a,b);
     }
+    put("Rody fuck horse");
     return 0;
 }
